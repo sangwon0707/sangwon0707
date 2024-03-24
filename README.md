@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=#13678A&height=150&section=header&text=SangwonLee&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sangwon%20Lee&descAlign=50&fontAlign=50&fontAlignY=40)
 
 <p align="center">🇰🇷 🇨🇦</p>
 
