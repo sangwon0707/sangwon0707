@@ -44,8 +44,6 @@
 
 <p align="center"> 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangwon0707&theme=bear" width="100%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sangwon0707&theme=bear&exclude=HTML,CSS" width="49%"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sangwon0707&theme=bear&exclude=HTML,CSS" width="49%"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sangwon0707&theme=bear" width="49%"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sangwon0707&theme=bear&utcOffset=09" width="49%" />
 </p>
