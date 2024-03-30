@@ -34,7 +34,7 @@
 >댕댕정보통 🔗 [final](https://github.com/sangwon0707/final.git)<br>
 
 ---
-# 🪄Study Note🪄
+# 🪄Personal Project🪄
 >플러터로 만든 TodoList 🔗 [flutter_Todo](https://github.com/sangwon0707/flutter_Todo.git)    
 >  
 <br>
