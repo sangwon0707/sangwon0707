@@ -41,11 +41,11 @@
 
 ---
 # 📒 Latest Blog Post📒
-[2024/3/27 - title1](url) <br>
-[2024/3/12 - title1](url) <br>
-[2024/2/9 - title1](url) <br>
-[2024/2/7 - title1](url) <br>
-[2024/2/4 - title1](url) <br>
+>[2024/3/27 - title1](url) <br>
+>[2024/3/12 - title1](url) <br>
+>[2024/2/9 - title1](url) <br>
+>[2024/2/7 - title1](url) <br>
+>[2024/2/4 - title1](url) <br>
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
