@@ -27,7 +27,13 @@
 
 <br>
 
-<h3 align="center">🪄 Blog 🪄</h3>
+<h3 align="center">🪄 Project List🪄</h3>
+코인노래방 키오스크 🔗 OracleCLI_javaGUI_project 
+제주도 숙박 예약 프로젝트 (구귤) 🔗 jeju_sist
+댕댕정보통 🔗 final
+
+<h3 align="center">🪄 Study Note🪄</h3>
+플러터로 만든 TodoList 🔗 flutter_Todo
 
 <div align="center" style="text-align:center">
 </div>
