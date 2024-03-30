@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-purple?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
@@ -44,10 +43,7 @@
 >코인노래방 키오스크 🔗 [OracleCLI_javaGUI_project](https://github.com/sangwon0707/OracleCLI_javaGUI_project.git)  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>  <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
 
 <br> 
->제주도 숙박 예약 프로젝트 (구귤) 🔗 [jeju_sist](https://github.com/sangwon0707/jeju_sist.git)<br> img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>  <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JSP/Servlet-8A2BE2"/></a>
-<img src="https://img.shields.io/badge/mybatis-CC342D"/></a> 
+>제주도 숙박 예약 프로젝트 (구귤) 🔗 [jeju_sist](https://github.com/sangwon0707/jeju_sist.git)<br> img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/JSP/Servlet-8A2BE2"/></a>&nbsp <img src="https://img.shields.io/badge/mybatis-CC342D"/></a>&nbsp 
 
 >댕댕정보통 🔗 [final](https://github.com/sangwon0707/final.git)
 
