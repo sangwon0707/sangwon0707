@@ -42,7 +42,7 @@
 # 📕 Project List 📕
 >코인노래방 키오스크 🔗 [OracleCLI_javaGUI_project](https://github.com/sangwon0707/OracleCLI_javaGUI_project.git)  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>  <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
 
->제주도 숙박 예약 프로젝트 (구귤) 🔗 [jeju_sist](https://github.com/sangwon0707/jeju_sist.git)<br> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+>제주도 숙박 예약 프로젝트 (구귤) 🔗 [jeju_sist](https://github.com/sangwon0707/jeju_sist.git) <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JSP/Servlet-8A2BE2"/></a>
 <img src="https://img.shields.io/badge/mybatis-CC342D"/></a> 
