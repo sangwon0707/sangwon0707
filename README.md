@@ -48,6 +48,14 @@
 <img src="https://img.shields.io/badge/mybatis-CC342D"/></a> 
 
 >댕댕정보통 🔗 [final](https://github.com/sangwon0707/final.git)
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JPA-F80000"/></a>
+<img src="https://img.shields.io/badge/SpringSecurity-8A2BE2"/></a>
+<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
+
+
 
 ---
 # 📘 Study / Mini Project 📘
