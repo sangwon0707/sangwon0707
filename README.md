@@ -28,17 +28,24 @@
 <br>
 
 ---
-# 🪄 Project List🪄
+# 📕 Project List 📕
 >코인노래방 키오스크 🔗 [OracleCLI_javaGUI_project](https://github.com/sangwon0707/OracleCLI_javaGUI_project.git)<br> 
 >제주도 숙박 예약 프로젝트 (구귤) 🔗 [jeju_sist](https://github.com/sangwon0707/jeju_sist.git)<br>
 >댕댕정보통 🔗 [final](https://github.com/sangwon0707/final.git)<br>
 
 ---
-# 🪄Personal Project🪄
+# 📘 Study / Mini Project 📘
 >플러터로 만든 TodoList 🔗 [flutter_Todo](https://github.com/sangwon0707/flutter_Todo.git)    
->  
+>기본에 충실한 게시판 🔗 [FancyBoard](https://github.com/sangwon0707/flutter_Todo.git) 
 <br>
 
+---
+# 📒 Latest Blog Post📒
+[2024/3/27 - title1](url) <br>
+[2024/3/12 - title1](url) <br>
+[2024/2/9 - title1](url) <br>
+[2024/2/7 - title1](url) <br>
+[2024/2/4 - title1](url) <br>
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
