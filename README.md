@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/linuxserver-#DA3B8A?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp 
 
  linuxserver
 </a>&nbsp 
