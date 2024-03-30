@@ -23,6 +23,9 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+
+  <img src="https://img.shields.io/badge/LinuxServer-#DA3B8A?style=flat-square&logo=LinuxServer&logoColor=white"/></a>&nbsp 
+
 </p>
 
 <br>
