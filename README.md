@@ -59,8 +59,15 @@
 
 ---
 # 📘 Study / Mini Project 📘
->플러터로 만든 TodoList 🔗 [flutter_Todo](https://github.com/sangwon0707/flutter_Todo.git)    
+>플러터로 만든 TodoList 🔗 [flutter_Todo](https://github.com/sangwon0707/flutter_Todo.git)
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Hive-F9AB00"/></a>
+
 >기본에 충실한 게시판 🔗 [FancyBoard](https://github.com/sangwon0707/flutter_Todo.git) 
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JPA-F80000"/></a>
+<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=black"/></a>
 
 ---
 # 📒 Latest Blog Post📒
