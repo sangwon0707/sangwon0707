@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sangwon%20Lee&descAlign=50&fontAlign=50&fontAlignY=40)
 
-<p align="center">🇰🇷 🇨🇦</p>
+<h2 align="center">🇰🇷 🇨🇦</h2>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
