@@ -35,7 +35,7 @@
 
 ---
 # 🪄Study Note🪄
-플러터로 만든 TodoList 🔗 [flutter_Todo](https://github.com/gayulz/flutter_Todo.git)    
+플러터로 만든 TodoList 🔗 [flutter_Todo](https://github.com/sangwon0707/flutter_Todo.git)    
   
 <br>
 
