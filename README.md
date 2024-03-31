@@ -54,9 +54,17 @@
 <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
 
 
-
 ---
 # 📘 Study / Mini Project 📘
+>Mini-pc 우분투 서버 만들어 배포하기 [ubuntu-svr](url)
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/OpenJDK-F80000"/></a>
+<img src="https://img.shields.io/badge/Tomcat-8A2BE2"/></a>
+<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=black"/></a>
+
+
+
+
 >플러터로 만든 TodoList 🔗 [flutter_Todo](https://github.com/sangwon0707/flutter_Todo.git)
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Hive-F9AB00"/></a>
