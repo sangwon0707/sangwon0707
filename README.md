@@ -74,10 +74,6 @@
 
 >전자정부프레임워크 - 공공 문화시설 예약서비스] 🔗 [e_gov_RSVN](https://github.com/sangwon0707/e_gov_RSVN.git) 
 <img src="https://img.shields.io/badge/e_govFrame-F80000"/></a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/e_govFrame-F80000?style=flat-square"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/RESTful_API-009688?style=flat-square"/></a>
