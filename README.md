@@ -72,7 +72,7 @@
 <img src="https://img.shields.io/badge/JPA-F80000"/></a>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=black"/></a>
 
->전자정부프레임워크 - 공공 문화시설 예약서비스] 🔗 [e_gov_RSVN](https://github.com/sangwon0707/e_gov_RSVN.git) 
+>전자정부프레임워크 - 공공 문화시설 예약서비스] 🔗 [e_gov_RSVN](https://github.com/sangwon0707/e_gov_RSVN.git) 
 <img src="https://img.shields.io/badge/e_govFrame-F80000"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
