@@ -56,7 +56,7 @@
 
 ---
 # 📘 Study / Mini Project 📘
->Mini-pc 우분투 서버 만들어 배포하기 [ubuntu-svr](url)
+>ON PREMISE WAS 배포관리 [ON_PREMISE_WAS](https://github.com/sangwon0707/ON_PREMISE_WAS.git)
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenJDK-F80000"/></a>
 <img src="https://img.shields.io/badge/Tomcat-8A2BE2"/></a>
