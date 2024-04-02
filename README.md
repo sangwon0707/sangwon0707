@@ -62,7 +62,7 @@
 <img src="https://img.shields.io/badge/Tomcat-8A2BE2"/></a>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=black"/></a>
 
->플러터로 만든 TodoList 앱 🔗 [flutter_Note](https://github.com/sangwon0707/flutter_Note.git)
+>플러터로 만든 TodoList 앱 🔗 [flutter_Todo](https://github.com/sangwon0707/flutter_Todo.git)
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/FIREBASE-CC0000"/></a>
 
