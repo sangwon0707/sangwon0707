@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sangwon%20Lee&descAlign=50&fontAlign=50&fontAlignY=40)
+<h3 align="center"> 🧸 Me 🧸 </h3>
 
 <h2 align="center">🇰🇷 🇨🇦</h2>
 
@@ -46,7 +47,7 @@
 <img src="https://img.shields.io/badge/JSP/Servlet-8A2BE2"/></a>
 <img src="https://img.shields.io/badge/mybatis-CC342D"/></a> 
 
->댕댕정보통 🔗 [final](https://github.com/sangwon0707/final.git)
+>[진행중] 댕댕정보통 🔗 [final](https://github.com/sangwon0707/final.git)
 <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -57,40 +58,30 @@
 
 ---
 # 📘 Study / Mini Project 📘
->ON PREMISE WAS 배포관리 [ON_PREMISE_WAS](https://github.com/sangwon0707/ON_PREMISE_WAS.git)
+>[진행중]ON PREMISE WAS 배포관리 [ON_PREMISE_WAS](https://github.com/sangwon0707/ON_PREMISE_WAS.git)
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenJDK-F80000"/></a>
 <img src="https://img.shields.io/badge/Tomcat-8A2BE2"/></a>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=black"/></a>
 
->플러터로 만든 TodoList 앱 🔗 [FlutterFire_Todo](https://github.com/sangwon0707/FlutterFire_Todo.git)
+>[진행중]플러터로 만든 TodoList 앱 🔗 [FlutterFire_Todo](https://github.com/sangwon0707/FlutterFire_Todo.git)
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/FIREBASE-CC0000"/></a>
 
->기본에 충실한 CRUD 게시판 🔗 [FancyBoard](https://github.com/sangwon0707/fancyboard.git) 
+>[진행중]기본에 충실한 CRUD 게시판 🔗 [FancyBoard](https://github.com/sangwon0707/fancyboard.git) 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JPA-F80000"/></a>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=black"/></a>
 
->전자정부프레임워크 - 공공 문화시설 예약서비스] 🔗 [e_gov_RSVN](https://github.com/sangwon0707/e_gov_RSVN.git) 
+>[진행중]전자정부프레임워크 - 공공 문화시설 예약서비스] 🔗 [e_gov_RSVN](https://github.com/sangwon0707/e_gov_RSVN.git) 
 <img src="https://img.shields.io/badge/e_govFrame-F80000"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/RESTful_API-009688?style=flat-square"/></a>
 ---
 
-# 📒 Latest Blog Post📒
->[2024/3/27 - title1](url) <br>
->[2024/3/12 - title1](url) <br>
->[2024/2/9 - title1](url) <br>
->[2024/2/7 - title1](url) <br>
->[2024/2/4 - title1](url) <br>
-
-<h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
-  <a href="https://velog.io/@sangwon07"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
-  <a href="mailto:"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
 <br>
 
