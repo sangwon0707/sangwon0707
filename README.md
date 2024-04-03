@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Sangwon%20Lee&descAlign=50&fontAlign=50&fontAlignY=40)
-<h3 align="center"> 🧸 Me 🧸 </h3>
 
+<h2 align="center"> 🧸 Me 🧸 </h2>
+<p align="center"> 
+<img src=img/타자치는고양이.gif />  
+모르는 건 있어도 못 만드는 건 없다.<br>
+안해본 건 있어도 못 하는 건 없다.<br>
+특기 : 오래 앉아있기 , 코드 될때까지 수정해보기<br>
+</p>
 <h2 align="center">🇰🇷 🇨🇦</h2>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
