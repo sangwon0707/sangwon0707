@@ -65,13 +65,11 @@
 ---
 # 📗 Interests(Notion note) 📗
 <img src="https://github.com/sangwon0707/ON_PREMISE_WAS/blob/main/image_with_20px_border.png" width="100" height="100">
->ON PREMISE WAS 배포관리 [ON_PREMISE_WAS](https://github.com/sangwon0707/ON_PREMISE_WAS.git)
+ON PREMISE WAS 배포관리 [ON_PREMISE_WAS](https://github.com/sangwon0707/ON_PREMISE_WAS.git)
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenJDK-F80000"/></a>
 <img src="https://img.shields.io/badge/Tomcat-8A2BE2"/></a>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=black"/></a>
-
-
 
 
 ---
