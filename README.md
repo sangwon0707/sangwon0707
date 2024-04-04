@@ -71,6 +71,19 @@
 <img src="https://img.shields.io/badge/Tomcat-8A2BE2"/></a>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=black"/></a>
 
+# 📗 Interests(Notion note) 📗
+
+<img src="https://github.com/sangwon0707/ON_PREMISE_WAS/blob/main/image_with_20px_border.png" width="100" height="100">
+
+[시리즈]ON PREMISE WAS 배포관리 [ON_PREMISE_WAS](https://github.com/sangwon0707/ON_PREMISE_WAS.git)
+
+<div style="display: flex; justify-content: start; gap: 10px;">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" width="100" height="100"/>
+  <img src="https://img.shields.io/badge/OpenJDK-F80000" width="100" height="100"/>
+  <img src="https://img.shields.io/badge/Tomcat-8A2BE2" width="100" height="100"/>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=black" width="100" height="100"/>
+</div>
+
 ---
 # 📘 Study / Mini Project 📘
 >[진행중]플러터로 만든 TodoList 앱 🔗 [FlutterFire_Todo](https://github.com/sangwon0707/FlutterFire_Todo.git)
