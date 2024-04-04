@@ -2,11 +2,9 @@
 <h2 align="center"> 🧸 Me 🧸 </h2>
 <p align="center"> 
 <!-- <img src="https://github.com/sangwon0707/sangwon0707/blob/main/%E1%84%90%E1%85%A1%E1%84%8C%E1%85%A1%E1%84%8E%E1%85%B5%E1%84%82%E1%85%B3%E1%86%AB%E1%84%80%E1%85%A9%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%8B%E1%85%B5.gif" /> <br> -->
-
 모르는 건 있어도 못 만드는 건 없습니다.<br>
 안해본 건 있어도 못 하는 건 없습니다.<br>
-특기 : 오래 앉아있기 , 코드 될 때까지 수정하기, 검색하기<br>
-  
+특기 : 오래 앉아있기 , 코드 될 때까지 수정하기, 검색하기<br> 
 </p>
 <h2 align="center">🇰🇷 🇨🇦</h2>
 
@@ -64,8 +62,6 @@
 
 ---
 # 📗 Interests(Notion note) 📗
-<img src="https://github.com/sangwon0707/ON_PREMISE_WAS/blob/main/image_with_20px_border.png" width="100" height="100">
-
 >ON PREMISE WAS 배포관리 🔗 [ON_PREMISE_WAS](https://github.com/sangwon0707/ON_PREMISE_WAS.git)
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenJDK-F80000"/></a>
