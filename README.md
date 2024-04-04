@@ -62,15 +62,16 @@
 <img src="https://img.shields.io/badge/JPA-F80000"/></a>
 <img src="https://img.shields.io/badge/SpringSecurity-8A2BE2"/></a>
 
-
 ---
-# 📘 Study / Mini Project 📘
+# 📘 관심사(노션) 📘
 >[진행중]ON PREMISE WAS 배포관리 [ON_PREMISE_WAS](https://github.com/sangwon0707/ON_PREMISE_WAS.git)
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenJDK-F80000"/></a>
 <img src="https://img.shields.io/badge/Tomcat-8A2BE2"/></a>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=black"/></a>
 
+---
+# 📘 Study / Mini Project 📘
 >[진행중]플러터로 만든 TodoList 앱 🔗 [FlutterFire_Todo](https://github.com/sangwon0707/FlutterFire_Todo.git)
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/FIREBASE-CC0000"/></a>
