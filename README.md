@@ -74,18 +74,6 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/FIREBASE-CC0000"/></a>
 
->[진행중]기본에 충실한 CRUD 게시판 🔗 [FancyBoard](https://github.com/sangwon0707/fancyboard.git) 
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JPA-F80000"/></a>
-<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=black"/></a>
-
->[진행중]전자정부프레임워크 - 공공 문화시설 예약서비스] 🔗 [e_gov_RSVN](https://github.com/sangwon0707/e_gov_RSVN.git) 
-<img src="https://img.shields.io/badge/e_govFrame-F80000"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/RESTful_API-009688?style=flat-square"/></a>
----
-
 <p align="center">
 </p>
 <br>
