@@ -60,7 +60,7 @@
 # 📗 Interests(Notion note) 📗
 >ON PREMISE WAS 배포관리 🔗 [ON_PREMISE_WAS](https://github.com/sangwon0707/ON_PREMISE_WAS.git)
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/OpenJDK-F80000"/></a>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tomcat-8A2BE2"/></a>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=black"/></a>
 
