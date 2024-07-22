@@ -63,6 +63,8 @@
 
 ---
 # 📘 Study 
+> [07.21.2024] REDIS_OTP_REFRESH  🔗 [valkey OTP RefreshToken](https://github.com/sangwon0707/demo-valkey-springboot-standalone.git)
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/></a>
 
 <p align="center"> 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangwon0707&theme=bear" width="100%" />
