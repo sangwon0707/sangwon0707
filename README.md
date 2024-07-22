@@ -52,23 +52,16 @@
 
 >코인노래방 키오스크 🔗 [OracleCLI_javaGUI_project](https://github.com/sangwon0707/OracleCLI_javaGUI_project.git)  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>  <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
 
-
-
-
-
----
-# 📗 Interests(Notion note) 📗
->ON PREMISE WAS 배포관리 🔗 [ON_PREMISE_WAS](https://github.com/sangwon0707/ON_PREMISE_WAS.git)
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Tomcat-8A2BE2"/></a>
-<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=black"/></a>
-
-
 ---
 # 📘 Study 
 > [07.21.2024] REDIS_OTP_REFRESH  🔗 [valkey OTP RefreshToken](https://github.com/sangwon0707/demo-valkey-springboot-standalone.git)
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></a>
+
+> [04.02.2024] 우분투 배포(ON_PREMISE) 🔗 [ON_PREMISE_WAS](https://github.com/sangwon0707/ON_PREMISE_WAS.git)
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Tomcat-8A2BE2"/></a>
+<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=black"/></a>
 
 <p align="center"> 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangwon0707&theme=bear" width="100%" />
