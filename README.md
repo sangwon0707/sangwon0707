@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JSP/Servlet-8A2BE2"/></a>
 
->[진행중] 댕댕정보통 🔗 [final](https://github.com/sangwon0707/final.git)
+>댕댕정보통 🔗 [final](https://github.com/sangwon0707/final.git)
 <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -62,14 +62,7 @@
 
 
 ---
-# 📘 Study / Mini Project 📘
->[진행중]플러터로 만든 TodoList 앱 🔗 [FlutterFire_Todo](https://github.com/sangwon0707/FlutterFire_Todo.git)
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/FIREBASE-CC0000"/></a>
-
-<p align="center">
-</p>
-<br>
+# 📘 Study 
 
 <p align="center"> 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangwon0707&theme=bear" width="100%" />
