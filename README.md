@@ -53,7 +53,7 @@
 >코인노래방 키오스크 🔗 [OracleCLI_javaGUI_project](https://github.com/sangwon0707/OracleCLI_javaGUI_project.git)  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>  <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/></a>
 
 ---
-# 📘 스타디
+# 📘 스터디
 > [07.21.2024] REDIS_OTP_REFRESH  🔗 [valkey OTP RefreshToken](https://github.com/sangwon0707/demo-valkey-springboot-standalone.git)
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></a>
 
