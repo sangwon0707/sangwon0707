@@ -189,7 +189,7 @@
 🚧 **Actively being developed — contributions are warmly welcomed!**
 
 
-[📂 GitHub Link](https://github.com/sangwon0707/rotaryshield)
+[📂 Repository](https://github.com/sangwon0707/rotaryshield)
 *🚀 Designed by Developer Sangwon | ⚙️ Powered by Claude Code*
 
 
